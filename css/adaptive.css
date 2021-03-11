@@ -1,0 +1,1471 @@
+@media screen and (min-width: 1920px) {
+    #footer {
+        background-size: cover;
+    }
+
+}
+
+@media screen and (max-width: 1345px) {
+
+    #person {
+        left: 740px;
+    }
+
+    #person img {
+        width: 515px;
+    }
+
+    #block_form {
+        overflow: hidden;
+        margin: 0;
+        max-width: none;
+        position: unset;
+    }
+
+    #block_form #form_container {
+        max-width: 1200px;
+        margin: 0 auto;
+        position: relative;
+    }
+
+    #line .line {
+        margin-top: 0;
+    }
+
+}
+
+@media screen and (max-width: 1250px) {
+
+    #main #main_container {
+        padding-left: 20px;
+        box-sizing: border-box;
+        padding-right: 20px;
+    }
+
+    #guarantees {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    #projects {
+        padding-left: 20px;
+        box-sizing: border-box;
+    }
+
+    #facts {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #block_benefits .benefits_image {
+        margin-left: 60px;
+    }
+
+    #block_benefits {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    #block_container #block_white {
+        padding-right: 15px;
+    }
+
+
+    #block_guarantee #block_container {
+        max-width: 1190px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin: 0 auto;
+        box-sizing: border-box;
+    }
+
+    #block_videos {
+        padding-right: 20px;
+        padding-left: 20px;
+        box-sizing: border-box;
+    }
+
+    #block_form {
+        padding-left: 20px;
+    }
+
+    #footer #footer_container {
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+
+    #kitchens .kitchen .kitchen-content .product-number {
+        margin-left: -5px;
+    }
+
+    #kitchens .kitchen .kitchen-content .product-description-left {
+        margin-left: 0;
+    }
+
+
+    #kitchens .kitchen .kitchen-properties .kitchen-property:first-child {
+        margin-left: 0;
+    }
+
+    #kitchens .kitchen .kitchen-content .product-name {
+        margin-left: 0;
+    }
+
+
+    .slick-dots {
+        width: 120px;
+        left: 335px;
+        top: 490px;
+    }
+
+}
+
+
+@media screen and (max-width: 1200px) {
+
+    #main_container, #guarantees_heading, #guarantees_container, #projects_heading, #facts, #benefits_container, #benefits_heading, #block_container, #block_videos, #block_form, #footer_container {
+        width: 100%;
+        padding-right: 20px;
+        padding-left: 20px;
+        box-sizing: border-box;
+    }
+
+    #projects #projects_description {
+        padding-left: 152px;
+    }
+
+
+    #kitchens .kitchen .kitchen-content {
+        max-width: 380px;
+        margin: 0 auto;
+    }
+
+    #block_benefits .benefits_image {
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+    }
+
+    #block_benefits .benefits_image img {
+        width: 550px;
+    }
+
+
+    #person {
+        left: 762px;
+    }
+
+    .slick-prev {
+        left: 37px;
+    }
+
+    .slick-next {
+        left: 731px;
+    }
+}
+
+/*1024 - 1199*/
+@media screen and (max-width: 1199px) {
+
+    #projects #projects_heading {
+        padding-top: 100px;
+    }
+
+    #projects #projects_heading .title_Orange {
+        width: 836px;
+    }
+
+    #kitchens .kitchen .kitchen-image img {
+        width: 730px;
+    }
+
+    #footer #footer_container {
+        width: 95%;
+    }
+
+
+    #videos .video iframe {
+        width: 400px;
+    }
+
+    #block_container #founder {
+        margin-left: 65px;
+        margin-top: 0;
+    }
+
+    #person img {
+        width: 500px;
+        height: 550px;
+    }
+
+    #person {
+        top: 35px;
+        width: 441px;
+    }
+
+
+    #projects #projects_description {
+        max-width: 827px;
+    }
+
+    #contacts_icons {
+        width: 195px;
+    }
+
+    #contacts_icons ul {
+        padding: 0;
+    }
+
+    .slick-next {
+        left: 691px;
+    }
+
+    .slick-dots {
+        left: 311px;
+    }
+
+    #kitchens .kitchen .kitchen-content {
+        padding-left: 15px;
+    }
+}
+
+@media screen and (max-width: 1141px) {
+
+    #kitchens .kitchen .kitchen-image img {
+        width: 650px;
+        height: 450px;
+    }
+
+    .slick-prev {
+        top: 276px;
+    }
+
+    .slick-next {
+        left: 613px;
+        top: 276px;
+    }
+
+    .slick-dots {
+        left: 270px;
+        top: 468px;
+    }
+
+    #kitchens .kitchen .kitchen-properties {
+        margin-top: 70px;
+    }
+
+
+}
+
+@media screen and (max-width: 1124px) {
+
+    #main .logo {
+        padding-right: 110px;
+    }
+
+}
+
+
+@media screen and (max-width: 1077px) {
+
+    #kitchens .kitchen {
+        flex-wrap: wrap;
+    }
+
+}
+
+@media screen and (max-width: 1069px) {
+
+    #form {
+        margin: 0 auto 69px;
+    }
+
+    #person {
+
+        display: none;
+    }
+
+    #footer_socialMedia a {
+        margin-right: 22px;
+    }
+
+
+}
+
+@media screen and (max-width: 1061px) {
+    #kitchens {
+        max-width: 900px;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    .slick-next {
+        left: 730px;
+    }
+
+    .slick-dots {
+        left: 386px;
+    }
+
+    .slick-prev {
+        left: 151px;
+    }
+
+    #kitchens .kitchen .kitchen-content .product-number {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1032px) {
+    #facts .fact:first-child img {
+        width: 192px;
+    }
+
+    #facts .fact:nth-child(2) img {
+        width: 352px;
+    }
+
+    #facts .fact:last-child img {
+        width: 253px;
+    }
+
+    #facts .fact .fact_text {
+        font-size: 18px;
+    }
+
+    #guarantees_container .guarantee:nth-child(3) .guarantee_number {
+        margin-left: 50px;
+    }
+
+    #guarantees_container .guarantee:nth-child(3) .guarantee_title {
+        margin-left: 110px;
+    }
+
+    #guarantees_container .guarantee:nth-child(3) .guarantee_text {
+        margin-left: 110px;
+    }
+
+    #block_benefits .benefits_image img {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 1025px) {
+
+    .figure img {
+        width: 60px;
+        height: 6px;
+    }
+
+
+    #projects #projects_description {
+        padding-left: 106px;
+    }
+
+    #guarantees .figure {
+        margin-right: 20px;
+    }
+
+    #projects #projects_heading .title_Black {
+        padding-left: 0;
+    }
+
+    #block_benefits #benefits_heading .figure {
+        margin-right: 20px;
+    }
+
+    #videos_heading .figure {
+        margin-right: 20px;
+    }
+
+    #videos_heading .title_Black {
+        padding-left: 0;
+    }
+
+    #block_videos #videos_text {
+        padding-left: 80px;
+    }
+
+    #block_form #form_heading .figure {
+        margin-right: 20px;
+    }
+
+    #block_form #form_heading .title_Black {
+        padding-left: 0;
+    }
+
+    #block_form #blockForm_text {
+        padding-left: 82px;
+        margin-bottom: 35px;
+    }
+
+    #projects #projects_heading .figure {
+        margin-right: 20px;
+    }
+
+    #projects #projects_description {
+        padding-left: 103px;
+    }
+
+    #guarantees_container .guarantee {
+        width: 500px;
+    }
+
+    #guarantees_container .guarantee:nth-child(3) .guarantee_number {
+        margin-left: 0;
+        margin-top: 25px;
+    }
+
+    #guarantees_container .guarantee:nth-child(3) .guarantee_title {
+        margin-left: 60px;
+        padding-top: 15px;
+    }
+
+    #guarantees_container .guarantee:nth-child(3) .guarantee_text {
+        margin-left: 60px;
+    }
+
+    #guarantees_container .guarantee:nth-child(4) .guarantee_number {
+        margin-top: 20px;
+    }
+
+    #guarantees_container .guarantee:nth-child(4) .guarantee_title {
+        padding-top: 40px;
+    }
+
+    #guarantees_container .guarantee:nth-child(2) .guarantee_number {
+        margin-top: 30px;
+    }
+
+    #guarantees_container .guarantee:nth-child(2) .guarantee_title {
+        padding-top: 30px;
+    }
+
+    #guarantees_container {
+        max-width: 500px;
+        margin: 0 auto 55px;
+    }
+
+}
+
+
+@media screen and (max-width: 991px) {
+
+    #facts .fact .fact_text {
+        margin: -30px auto 75px;
+    }
+
+    #facts {
+        max-width: 400px;
+    }
+
+    #facts .fact:first-child img {
+        width: 235px;
+    }
+
+    #facts .fact:nth-child(2) img {
+        width: 392px;
+    }
+
+    #facts .fact:last-child img {
+        width: 290px;
+    }
+
+    #facts .fact .fact_text {
+        font-size: 19px;
+    }
+
+    #facts {
+        justify-content: space-evenly;
+        padding-top: 90px;
+    }
+
+    #block_benefits #benefits {
+        max-width: 375px;
+    }
+
+    #footer .logo img {
+        width: 80px;
+    }
+
+    #footer #footer_socialMedia a:first-child img {
+        width: 16px;
+    }
+
+    #footer #footer_socialMedia a:nth-child(2) img {
+        width: 28px;
+    }
+
+    #footer #footer_socialMedia a:last-child img {
+        width: 33px;
+    }
+
+
+    #block_benefits .benefits_image img {
+        width: 500px;
+    }
+
+    #block_benefits #benefits_heading {
+        padding-top: 0;
+    }
+
+    #footer {
+        background-size: cover;
+    }
+
+    #footer #footer_container #footer_first {
+        max-width: 800px;
+        margin: 0 auto;
+        padding-top: 0;
+        display: block;
+    }
+
+    #footer #footer_first #logo_SM {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    #footer #footer_first #logo_SM .logo {
+        display: inline-block;
+        margin-right: 30px;
+    }
+
+    #footer #footer_socialMedia a:last-child img {
+        margin-bottom: 5px;
+    }
+
+    #contacts_icons {
+        display: inline-block;
+    }
+
+    #address {
+        display: inline-block;
+        margin-right: 45px;
+    }
+
+    #work_time {
+        display: inline-block;
+        margin-right: 45px;
+    }
+
+    #footer_socialMedia {
+        display: inline-block;
+    }
+
+    #projects {
+        padding-left: 0;
+    }
+
+    #main .logo {
+        padding-right: 60px;
+    }
+
+    #block_container #block_white {
+        max-width: 700px;
+        padding-right: 0;
+    }
+}
+
+@media screen and (max-width: 965px) {
+
+    #guarantees .figure {
+        display: none;
+    }
+
+    #guarantees #guarantees_heading {
+        max-width: 575px;
+        padding-right: 0;
+        padding-left: 0;
+        padding-top: 65px;
+    }
+
+    #projects #projects_heading .figure {
+        display: none;
+    }
+
+    #projects #projects_heading {
+        max-width: 826px;
+        padding-left: 0;
+        padding-right: 0;
+        margin: 0 auto;
+        padding-top: 40px;
+    }
+
+    #projects #projects_description {
+        padding-left: 0;
+        margin: 0 auto;
+        max-width: 790px;
+    }
+
+    #block_benefits #benefits_heading .figure {
+        display: none;
+    }
+
+    #block_benefits #benefits_heading {
+        max-width: 560px;
+        padding-left: 0;
+        padding-right: 0;
+        margin: 0 auto;
+    }
+
+    #videos_heading .figure {
+        display: none;
+    }
+
+    #block_videos #videos_heading {
+        max-width: 686px;
+    }
+
+    #block_videos {
+        margin-top: 55px;
+    }
+
+    #block_videos #videos_text {
+        margin: 0 auto 40px;
+        padding-left: 0;
+        max-width: 835px;
+    }
+
+    #block_videos {
+        margin: 55px auto;
+    }
+
+    #block_form #form_heading .figure {
+        display: none;
+    }
+
+    #block_form #form_heading {
+        max-width: 673px;
+    }
+
+    #block_form #blockForm_text {
+        padding-left: 0;
+        margin: 0 auto 35px;
+        max-width: 633px;
+    }
+
+    #block_benefits .benefits_image img {
+        max-width: 450px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+
+    #block_container #orange_block {
+        margin: 0 auto;
+    }
+
+    #block_container #whiteBorder_block {
+        padding-right: 37px;
+    }
+
+    #block_container #block_white {
+        margin: 0 auto;
+        border-radius: 20px;
+        border-left: solid 2px rgb(189, 177, 165);
+    }
+
+    #block_guarantee #block_container {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 905px) {
+    #block_benefits #benefits {
+        margin: 0 auto;
+    }
+
+    #block_benefits .benefits_image {
+        display: none;
+    }
+
+    #kitchens {
+        max-width: 700px;
+    }
+
+    .slick-dots {
+        left: 283px;
+    }
+
+    .slick-next {
+        left: 623px;
+    }
+
+    .slick-prev {
+        left: 63px;
+    }
+
+}
+
+@media screen and (max-width: 875px) {
+
+    #main .logo {
+        padding-right: 10px;
+    }
+
+    #address {
+        margin-right: 30px;
+    }
+
+    #work_time {
+        margin-right: 30px;
+    }
+
+    #footer #footer_container #footer_first {
+        max-width: 761px;
+    }
+
+    #call_container #call {
+        max-width: 500px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    #call_container #call h2#call_title {
+        margin: 15px auto 0;
+    }
+
+    #call_container #call #phone {
+        display: none;
+    }
+
+    #call_container #call #make_call {
+        margin: 20px auto 0;
+    }
+
+    #call_container {
+        overflow: scroll;
+    }
+
+
+}
+
+
+@media screen and (max-width: 843px) {
+
+    #footer #footer_container #footer_first {
+        margin: 0 auto;
+        max-width: 308px;
+        text-align: center;
+    }
+
+    #address {
+        margin-right: 0;
+        max-width: 308px;
+        margin-bottom: 40px;
+    }
+
+    #work_time {
+        max-width: 192px;
+        text-align: center;
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+
+    #footer #footer_container #footer_first {
+        padding-bottom: 40px;
+    }
+
+    #block_videos #videos_text {
+        max-width: 636px;
+    }
+
+    #projects #projects_description {
+        max-width: 641px;
+    }
+
+    #projects #projects_heading {
+        max-width: 551px;
+    }
+
+    #main #menu a {
+        padding: 25px 12px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    #offers {
+        padding-bottom: 40px;
+        padding-top: 65px;
+        margin: 0 auto;
+        max-width: 570px;
+    }
+
+    #offers .offer:last-child {
+        padding-right: 0;
+    }
+
+    #socialMedia {
+        display: block;
+        position: unset;
+        max-width: 165px;
+        margin: 0 auto;
+    }
+
+    #socialMedia ul {
+        padding: 0;
+    }
+
+    #socialMedia li:last-child {
+        margin-right: 0;
+    }
+
+    #socialMedia li {
+        display: inline-block;
+        margin-right: 30px;
+    }
+
+    #adaptive_menu {
+        display: inline-block;
+    }
+
+    #adaptive_menu .menu_open {
+        margin: 30px 0 0 30px;
+    }
+
+    #header {
+        text-align: center;
+    }
+
+    #main #main_container {
+        padding: 0;
+    }
+
+    #main_container #heading {
+        max-width: 578px;
+        margin: 0 auto;
+    }
+
+
+    #main #key_heading {
+        max-width: 561px;
+        margin: 0 auto;
+    }
+
+    #main #main_button {
+        max-width: 325px;
+        margin: 0 auto;
+    }
+
+    #main h1 {
+        padding-top: 60px;
+    }
+
+    #main #menu a {
+        display: block;
+        width: 100%;
+    }
+
+    #main #menu {
+        position: fixed;
+        background: rgba(0, 0, 0, 1.86);
+        z-index: 3;
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;
+        display: none;
+    }
+
+
+    #header.menu_open {
+        background: rgba(0, 0, 0, 1.86);
+    }
+
+    #header.menu_open #menu {
+        display: flex;
+        position: absolute;
+        left: 0;
+        top: 0;
+        flex-wrap: wrap;
+        height: 100%;
+    }
+
+    #block_container #block_white {
+        max-width: 655px;
+    }
+
+    #block_container #quote_block {
+        margin-left: 95px;
+    }
+
+    #block_container #quotes_sign {
+        left: 20px;
+    }
+
+    #projects #projects_heading {
+        max-width: 549px;
+        text-align: center;
+    }
+
+    #block_videos #videos_heading {
+        max-width: 476px;
+        text-align: center;
+    }
+
+    #block_videos #videos_text {
+        max-width: 445px;
+    }
+
+    #block_form #form_heading {
+        max-width: 357px;
+        text-align: center;
+    }
+
+    #block_form #blockForm_text {
+        max-width: 423px;
+    }
+
+    #form #form_sections {
+        max-width: 660px;
+    }
+
+    #form {
+        max-width: 697px;
+    }
+
+    #block_benefits #benefits_heading {
+        max-width: 360px;
+        text-align: center;
+    }
+
+    #guarantees .title_Black {
+        padding-left: 0;
+    }
+
+    #guarantees #guarantees_heading {
+        max-width: 286px;
+    }
+
+    #main #key_heading {
+        max-width: 496px;
+    }
+}
+
+@media screen and (max-width: 715px) {
+
+    #projects #projects_description {
+        max-width: 583px;
+    }
+
+    #kitchens .kitchen .kitchen-image img {
+        width: 550px;
+        height: 350px;
+    }
+
+    .slick-prev {
+        left: 47px;
+        top: 232px;
+    }
+
+    .slick-next {
+        left: 532px;
+        top: 232px;
+    }
+
+    .slick-dots {
+        top: 374px;
+        left: 244px;
+    }
+
+    #form {
+        width: 380px;
+        height: 510px;
+    }
+
+    #form #form_text {
+        width: 385px;
+    }
+
+    #form #form_sections {
+        max-width: 290px;
+        margin: 0 auto;
+    }
+
+    #block_container #quote_text {
+        padding-right: 15px;
+    }
+
+    #kitchens {
+        max-width: 600px;
+    }
+}
+
+
+@media screen and (max-width: 650px) {
+
+    #main h1 {
+        font-size: 45px;
+    }
+
+    #main_container #heading {
+        max-width: 520px;
+    }
+
+    #offers .offer {
+        padding-right: 30px;
+    }
+
+    #offers {
+        max-width: 518px;
+    }
+
+    #projects #projects_description {
+        max-width: 484px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    #kitchens .kitchen .kitchen-image img {
+        width: 450px;
+        height: 300px;
+    }
+
+    #kitchens {
+        max-width: 500px;
+    }
+
+    .slick-prev {
+        top: 201px;
+    }
+
+    .slick-next {
+        left: 432px;
+        top: 201px;
+    }
+
+    .slick-dots {
+        top: 379px;
+        left: 192px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+
+    #main_container #heading {
+        max-width: 527px;
+    }
+
+    #key img {
+        width: 55px;
+    }
+
+    #main #text {
+        font-size: 22px;
+    }
+
+    #main #key_heading {
+        max-width: 368px;
+    }
+
+    #offers .offer {
+        padding-bottom: 30px;
+        padding-right: 0;
+    }
+
+    #offers {
+        max-width: 160px;
+    }
+
+    #main_container #heading {
+        max-width: 305px;
+    }
+
+    #main h1 {
+        font-size: 42px;
+    }
+
+    #projects #projects_heading {
+        max-width: 290px;
+    }
+
+    #projects #projects_description {
+        max-width: 345px;
+    }
+
+    #block_videos #videos_heading {
+        max-width: 259px;
+    }
+
+    #block_videos #videos_text {
+        max-width: 338px;
+    }
+
+    #block_form #blockForm_text {
+        max-width: 355px;
+    }
+
+    #signature {
+        padding-right: 15px;
+    }
+
+    #guarantees_container .guarantee .guarantee_text br {
+        display: none;
+    }
+
+    #call_container #call {
+        max-width: 400px;
+    }
+
+    #call_container #call #call_text {
+        width: 364px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    #kitchens {
+        max-width: 340px;
+    }
+
+    #kitchens .kitchen .kitchen-image img {
+        width: 300px;
+        height: 230px;
+    }
+
+    .slick-prev {
+        top: 165px;
+        left: 38px;
+    }
+
+    .slick-next {
+        left: 282px;
+        top: 165px;
+    }
+
+    .slick-dots {
+        top: 310px;
+        left: 114px;
+    }
+
+    #kitchens .kitchen .kitchen-content .product-description-left {
+        padding-right: 0;
+        font-size: 16px;
+    }
+
+    #kitchens .kitchen .kitchen-content .product-description-right {
+        margin-left: 10px;
+        font-size: 16px;
+    }
+
+    #kitchens .kitchen .kitchen-content .product-name {
+        margin-bottom: 20px;
+        font-size: 23px;
+    }
+
+    #kitchens .kitchen .kitchen-content .product-number {
+        margin-top: 15px;
+        font-size: 90px;
+    }
+
+    #kitchens .kitchen .kitchen-properties {
+        margin-top: 45px;
+    }
+
+    #kitchens .kitchen .kitchen-properties .kitchen-property span {
+        margin-right: 8px;
+    }
+
+    #kitchens .kitchen .kitchen-properties .kitchen-property {
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width: 465px) {
+
+    #block_container #orange_block {
+        max-width: 315px;
+        height: 290px;
+    }
+
+    #block_container #whiteBorder_block {
+        width: 300px;
+        height: 259px;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    #block_container #number_25 {
+        font-size: 130px;
+        margin-left: 15px;
+        margin-top: -15px;
+    }
+
+    #block_container #text_age {
+        font-size: 70px;
+        position: unset;
+        transform: rotate(0deg);
+        width: 113px;
+        margin: -40px auto -15px;
+    }
+
+    #block_container #text_blockGuarantee {
+        font-size: 56px;
+        width: 246px;
+        margin: 0 auto;
+    }
+
+}
+
+@media screen and (max-width: 445px) {
+
+    #block_videos #videos .video {
+        height: 230px;
+    }
+
+    #videos .video iframe {
+        width: 300px;
+        height: 230px;
+    }
+
+    #block_videos #videos_text {
+        max-width: 291px;
+    }
+
+    #block_container #founder_name {
+        font-size: 17px;
+    }
+
+    #signature img {
+        width: 125px;
+    }
+
+    #block_container #founder {
+        margin-bottom: 15px;
+        justify-content: center;
+    }
+
+    #block_container #quote_text {
+        line-height: 27px;
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+
+    #quotes_sign img {
+        width: 40px;
+    }
+
+    #block_container #quote_block {
+        margin-left: 70px;
+    }
+
+    #block_benefits .benefit .benefit_title {
+        text-align: center;
+    }
+
+    #block_benefits #benefits_heading {
+        max-width: 250px;
+    }
+
+    #facts .fact:last-child img {
+        width: 260px;
+    }
+
+    #facts .fact:nth-child(2) img {
+        width: 352px;
+    }
+
+    #facts .fact:first-child img {
+        width: 211px;
+    }
+
+    #facts .fact .fact_text {
+        font-size: 17px;
+    }
+
+    #projects #projects_description {
+        line-height: 30px;
+        max-width: 324px;
+    }
+
+    #call_container #call {
+        max-width: 320px;
+    }
+
+    #call_container #call h2#call_title {
+        font-size: 33px;
+    }
+
+    #call_container #call #call_text {
+        width: 284px;
+    }
+
+    #call_container #call #make_call {
+        width: 280px;
+    }
+
+    #call_container #call #make_call .input_form input {
+        width: 250px;
+    }
+
+    #call_container #call #make_call .button_call {
+        width: 277px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+
+    #block_form #blockForm_text {
+        max-width: 304px;
+    }
+
+    #block_form #form_heading {
+        max-width: 260px;
+    }
+
+    #block_benefits .benefit .benefit_text br {
+        display: none;
+    }
+
+    #form {
+        width: 315px;
+    }
+
+    #form #form_text {
+        width: 315px;
+    }
+}
+
+@media screen and (max-width: 390px) {
+
+    #main #key_heading {
+        max-width: 291px;
+    }
+}
+
+@media screen and (max-width: 355px) {
+
+    #main h1 {
+        font-size: 38px;
+    }
+
+    #main_container #heading {
+        max-width: 277px;
+    }
+
+    #main #key_heading {
+        max-width: 260px;
+    }
+
+    #main_button .button_orange {
+        width: 280px;
+    }
+
+    #main #main_button {
+        max-width: 280px;
+    }
+
+    #projects #projects_description {
+        max-width: 255px;
+    }
+
+    #kitchens .kitchen .kitchen {
+        width: 280px;
+    }
+
+    #kitchens {
+        max-width: 305px;
+    }
+
+    .slick-prev {
+        left: 25px;
+    }
+
+    .slick-next {
+        left: 259px;
+    }
+
+    #kitchens .kitchen .kitchen-properties .kitchen-property img {
+        width: 16px;
+    }
+
+    #facts .fact:nth-child(2) img {
+        width: 316px;
+    }
+
+    #facts .fact:first-child img {
+        width: 190px;
+    }
+
+    #facts .fact:last-child img {
+        width: 234px;
+    }
+
+    #facts .fact .fact_text {
+        font-size: 16px;
+    }
+
+    #block_container #text_age {
+        font-size: 60px;
+        margin: -27px auto -15px;
+    }
+
+    #block_container #text_blockGuarantee {
+        font-size: 50px;
+    }
+
+    #block_container #number_25 {
+        font-size: 115px;
+        margin-left: 0;
+        margin-top: 0;
+    }
+
+    #block_container #founder {
+        margin-left: 25px;
+    }
+
+    #form {
+        width: 280px;
+    }
+
+    #form #form_text {
+        width: 280px;
+        font-size: 22px;
+    }
+
+    #form #form_sections {
+        max-width: 240px;
+    }
+
+    #footer #footer_container #footer_first {
+        padding-top: 25px;
+    }
+
+    #footer_socialMedia a:last-child {
+        margin-right: 0;
+    }
+
+    .slick-dots {
+        left: 93px;
+    }
+
+
+    #call_container #call {
+        max-width: 280px;
+    }
+
+    #call_container #call h2#call_title {
+        font-size: 30px;
+    }
+
+    #call_container #call #call_text {
+        font-size: 16px;
+        width: 240px;
+    }
+
+    #call_container #call #make_call .input_form input {
+        width: 230px;
+    }
+
+    #call_container #call #make_call {
+        width: 257px;
+    }
+
+    #call_container #call #make_call .button_call {
+        width: 257px;
+    }
+
+}
